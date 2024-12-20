@@ -73,7 +73,10 @@ namespace Practice_If_Else_Switch_Case
 
             }
 
-
+            //Switch ile çözmek daha doğru.
+            //Okunabilirlik: Switch yapısı, sabit seçenekler arasında daha düzenli ve okunabilir bir yapı sağlar.
+            //Performans: Switch yapısı, derleyici tarafından optimize edildiği için sabit değerler arasında daha hızlı çalışır; if-else yapısı ise her koşulu sırasıyla kontrol eder. 
+            
         }
 
     }
