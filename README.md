@@ -1,5 +1,4 @@
 # Practice_If_Else_Switch_Case
-# Rüya Manav Uygulaması
 
 Bu uygulama, kullanıcıdan bir meyve seçmesini isteyerek fiyatını ekrana yazdırır. Fiyatlandırma şu şekildedir:
 - Elma: 2 TL
